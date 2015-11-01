@@ -9,7 +9,7 @@
 
         var vm = this;
         vm.title = 'AngularJS';
-        vm.link = 'https://youtu.be/aHGmj_fqPLE';
+      
         activate();
 
         function activate() {
